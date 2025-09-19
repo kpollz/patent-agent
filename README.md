@@ -1,5 +1,5 @@
 Đây là một ý tưởng rất hay để tăng cường dữ liệu cho bài toán Similar Face Recognition! Việc sử dụng StyleGAN để tạo ra các cặp "sinh đôi" giả lập có thể giúp mô hình học được sự khác biệt tinh tế giữa các khuôn mặt rất giống nhau. Dưới đây là dàn ý báo cáo chi tiết theo yêu cầu của bạn.
-
+ 
 ---
 
 ## Báo cáo: Tăng cường dữ liệu cho bài toán Similar Face Recognition bằng StyleGAN
